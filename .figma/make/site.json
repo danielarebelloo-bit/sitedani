@@ -1,0 +1,10 @@
+{
+  "description": "Connect with a professional dog walker in Zona Oeste, São Paulo, offering personalized dog walking, pet sitting, and boarding services with easy WhatsApp scheduling.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
